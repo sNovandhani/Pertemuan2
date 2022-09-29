@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JavaApplication1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p
+comment2.target=java.util.ArrayList\ beli(java.util.ArrayList)
+comment3.params=p
+comment3.target=java.util.ArrayList\ bayar(java.util.ArrayList)
+numComments=4
